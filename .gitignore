@@ -9,3 +9,9 @@ wheels/
 # Virtual environments
 .venv
 data/
+package-lock.json
+package.json
+node_modules
+node_modules/.bin/playwright
+node_modules/.bin/playwright-core
+node_modules/.package-lock.json

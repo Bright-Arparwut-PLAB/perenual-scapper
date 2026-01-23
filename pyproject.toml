@@ -8,6 +8,7 @@ dependencies = [
     "playwright>=1.40.0",
     "pandas>=2.0.0",
     "tqdm>=4.65.0",
+    "playwright-stealth>=2.0.1",
 ]
 
 [project.optional-dependencies]
